@@ -1,16 +1,26 @@
-## Hi there 👋
+## Web Developer & Designer**  
+WordPress開発とWebデザイン、そして紙媒体（パンフレット・チラシ）のデザインまで、デジタル・アナログを問わず「形にする」クリエイターです。コードが書けるデザイナーとして、見た目の美しさと運用のしやすさを両立した制作を心掛けています。
 
-<!--
-**emiko-moo/emiko-moo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Development
+![WordPress](https://shields.io)
+![VS Code](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### 🎨 Design
+![Adobe Illustrator](https://shields.io)
+
+---
+
+## 🚀 What I Do
+- **WordPress開発**: オリジナルテーマの作成、プラグイン選定、保守しやすい設計
+- **Webデザイン**: ユーザーの目的を達成するための、美しく機能的な画面設計
+- **グラフィックデザイン**: チラシ、パンフレット、名刺などの印刷物デザイン
+- **マークアップ**: 丁寧でセマンティックなHTML/CSSコーディング
+
+---
+
